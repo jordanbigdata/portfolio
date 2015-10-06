@@ -1,6 +1,6 @@
-# Jordan Cheah's Code Portfolio
+# My Code Portfolio
 
-## Multiple LInear Regression (in R, Python and Octave/Matlab)
+## Multiple LInear Regression
 
 In this HackerRank challenge, a model is to be built to predict house prices using multiple features.  I illustrated with 3 different implementations in 
 * R (using lm() function)
