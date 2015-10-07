@@ -1,6 +1,6 @@
 # My Code Portfolio
 
-## Multiple Linear Regression
+## Multiple Linear Regression  :chart_with_upwards_trend:
 
 In this HackerRank challenge (Expert Level), a model is to be built to predict house prices using multiple features.  I illustrated with 3 different implementations in 
 * R (using lm() function)
@@ -9,13 +9,13 @@ In this HackerRank challenge (Expert Level), a model is to be built to predict h
 
 https://github.com/jordancheah/MultipleLinearRegression-HackerRankPredictHousePrices
 
-## Kafka Producer and Kafka Consumer in Java
+## Kafka Producer and Kafka Consumer in Java  :calling:
 
 This program illustrates how a Kafka Producer Group sends messages on my_topic, with key = my_key, to Kafka Consumer Group, which consumes messages sent on my_topic.
 
 https://github.com/jordancheah/Kafka-Java-Producer-Consumer
 
-## Data Processing with Spark in Java
+## Data Processing with Spark in Java  :arrow_forward:
 
 This Java program illustrates how to use Spark to process data in HDFS and write the results back to HDFS.
 
