@@ -42,7 +42,7 @@ This program illustrates how to use Apache Spark on real-world text-based produc
 
 https://github.com/jordancheah/Apache-Web-Log-Analysis-Spark
 
-### Data Pipeline from Yahoo-Finance to Python to MySQL
+### Data Pipeline from Yahoo-Finance to MySQL in Python
 This program illustrates how to obtain large volume of historical data from public sources (more than 30 years of financial data) and update a database e.g. MySQL.  Similar technique can be used to update other databases e.g. by using Python Driver for Apache Cassandra.
 
 https://github.com/jordancheah/Python-SQL-Yahoo-Finance/blob/master/02-getprice.py
