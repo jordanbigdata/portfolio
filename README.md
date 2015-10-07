@@ -17,9 +17,9 @@ http://rpubs.com/JordanDotData/82705
 
 ### Various Projects from Data Science Specialization
 * Data Cleaning and Exploratory Data Analysis on NOAA Storm Database  http://rpubs.com/JordanDotData/81851
+* Correlation Analysis, Simple Linear Regression and Multivariate Regression Analysis / Stepwise Algorithm  http://rpubs.com/JordanDotData/83309
 * t-test and p-value  http://rpubs.com/JordanDotData/82054
 * Distribution and Central Limit Theorem  http://rpubs.com/JordanDotData/81913
-* Correlation Analysis, Simple Linear Regression and Multivariate Regression Analysis / Stepwise Algorithm  http://rpubs.com/JordanDotData/83309
 
 
 # My Data Engineering Portfolio
