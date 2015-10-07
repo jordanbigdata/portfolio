@@ -15,7 +15,7 @@ The goal of the project is to predict the manner in which people did the exercis
 
 http://rpubs.com/JordanDotData/82705
 
-### Others
+### Various Projects from Data Science Specialization
 * Data Cleaning and Exploratory Data Analysis on NOAA Storm Database  http://rpubs.com/JordanDotData/81851
 * t-test and p-value  http://rpubs.com/JordanDotData/82054
 * Distribution and Central Limit Theorem  http://rpubs.com/JordanDotData/81913
