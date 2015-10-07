@@ -21,5 +21,9 @@ This Java program illustrates how to use Spark to process data in HDFS and write
 
 :arrow_forward: https://github.com/jordancheah/Spark-Java-CardCount
 
+## Classification Tree and Random Forest
 
+The goal of the project is to predict the manner in which people did the exercise.  Two models, Fitting Single Tree and Random Forest, are used and results are cross-validated.
+
+http://rpubs.com/JordanDotData/82705
 
