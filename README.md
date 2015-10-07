@@ -36,7 +36,7 @@ This Java program illustrates how to use Spark to process data in HDFS and write
 
 https://github.com/jordancheah/Spark-Java-CardCount
 
-### Python-SQL-Yahoo-Finance
+### Data Pipeline from Yahoo-Finance to Python to MySQL
 This program illustrates how to obtain large volume of historical data from public sources (more than 30 years of financial data) and update a database e.g. MySQL.  Similar technique can be used to update other databases e.g. by using Python Driver for Apache Cassandra.
 
 https://github.com/jordancheah/Python-SQL-Yahoo-Finance/blob/master/02-getprice.py
