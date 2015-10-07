@@ -1,4 +1,4 @@
-# My Code Portfolio
+# My Machine Learning & Data Science Portfolio
 
 ## Multiple Linear Regression  
 
@@ -8,6 +8,14 @@ In this HackerRank challenge (Expert Level), a model is to be built to predict h
 * Octave/Matlab (using Normal Equation)
 
 :chart_with_upwards_trend: https://github.com/jordancheah/MultipleLinearRegression-HackerRankPredictHousePrices
+
+## Classification Tree and Random Forest
+
+The goal of the project is to predict the manner in which people did the exercise.  Two models, Fitting Single Tree and Random Forest, are used and results are cross-validated.
+
+http://rpubs.com/JordanDotData/82705
+
+# My Coding Portfolio
 
 ## Kafka Producer and Kafka Consumer in Java  
 
@@ -21,9 +29,4 @@ This Java program illustrates how to use Spark to process data in HDFS and write
 
 :arrow_forward: https://github.com/jordancheah/Spark-Java-CardCount
 
-## Classification Tree and Random Forest
-
-The goal of the project is to predict the manner in which people did the exercise.  Two models, Fitting Single Tree and Random Forest, are used and results are cross-validated.
-
-http://rpubs.com/JordanDotData/82705
 
