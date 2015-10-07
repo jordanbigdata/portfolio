@@ -1,4 +1,4 @@
-# My Machine Learning & Data Science Portfolio
+# My Data Science Portfolio
 
 ## Multiple Linear Regression  
 
@@ -15,7 +15,7 @@ The goal of the project is to predict the manner in which people did the exercis
 
 http://rpubs.com/JordanDotData/82705
 
-# My Coding Portfolio
+# My Data Engineering Portfolio
 
 ## Kafka Producer and Kafka Consumer in Java  
 
