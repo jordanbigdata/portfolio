@@ -1,6 +1,6 @@
 # My Data Science Portfolio
 
-### Multiple Linear Regression  
+### Multiple Linear Regression
 
 In this HackerRank challenge (Expert Level), a model is to be built to predict house prices using multiple features.  I illustrated with 3 different implementations in 
 * R (using lm() function)
@@ -9,7 +9,7 @@ In this HackerRank challenge (Expert Level), a model is to be built to predict h
 
 :chart_with_upwards_trend: https://github.com/jordancheah/MultipleLinearRegression-HackerRankPredictHousePrices
 
-### Classification Tree and Random Forest
+### Classification Tree and Random Forest in R
 
 The goal of the project is to predict the manner in which people did the exercise.  Two models, Fitting Single Tree and Random Forest, are used and results are cross-validated.
 
