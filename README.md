@@ -21,6 +21,13 @@ http://rpubs.com/JordanDotData/82705
 * t-test and p-value  http://rpubs.com/JordanDotData/82054
 * Distribution and Central Limit Theorem  http://rpubs.com/JordanDotData/81913
 
+# My Genome Data Science Portfolio
+
+### Analyzing DNA sequences in Multi-Fasta Format using Python
+
+A Python program that analyzes a file containing DNA sequences in multi-FASTA format.
+
+https://github.com/jordancheah/DNA-FASTA-Python
 
 # My Data Engineering Portfolio
 
