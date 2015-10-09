@@ -33,7 +33,7 @@ https://github.com/jordancheah/DNA-FASTA-Python
 
 * Analyze lambda virus genome and real DNA sequencing reads derived from a human
 * Naive exact matching algorithm that is strand-aware, and Naive matching algirithm that allows up to 2 mismatches per occurrence.
-* 
+
 https://github.com/jordancheah/DNA-Sequencing-FA-FASTQ-Python
 
 # My Data Engineering Portfolio
