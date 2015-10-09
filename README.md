@@ -1,4 +1,4 @@
-## _My Data Science Portfolio_
+# My Data Science Portfolio
 
 ### Multiple Linear Regression
 
@@ -21,7 +21,7 @@ http://rpubs.com/JordanDotData/82705
 * t-test and p-value  http://rpubs.com/JordanDotData/82054
 * Distribution and Central Limit Theorem  http://rpubs.com/JordanDotData/81913
 
-## _My Genome Data Science Portfolio_
+# My Genome Data Science Portfolio
 
 ### Analyzing DNA sequences in Multi-Fasta Format using Python
 
@@ -36,7 +36,7 @@ https://github.com/jordancheah/DNA-FASTA-Python
 
 https://github.com/jordancheah/DNA-Sequencing-FA-FASTQ-Python
 
-## _My Data Engineering Portfolio_
+# My Data Engineering Portfolio
 
 ### Kafka Producer and Kafka Consumer in Java  
 
