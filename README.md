@@ -29,6 +29,13 @@ A Python program that analyzes a file containing DNA sequences in multi-FASTA fo
 
 https://github.com/jordancheah/DNA-FASTA-Python
 
+### DNA Sequencing Analysis: lambda_virus.fa and Human Genome FASTQ file with Python
+
+* Analyze lambda virus genome and real DNA sequencing reads derived from a human
+* Naive exact matching algorithm that is strand-aware, and Naive matching algirithm that allows up to 2 mismatches per occurrence.
+* 
+https://github.com/jordancheah/DNA-Sequencing-FA-FASTQ-Python
+
 # My Data Engineering Portfolio
 
 ### Kafka Producer and Kafka Consumer in Java  
