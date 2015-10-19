@@ -23,6 +23,16 @@ http://rpubs.com/JordanDotData/82705
 
 # My Genome Data Science Portfolio
 
+###  DNA Sequencing Algorithms with Approximate Matching: Boyer-Moore, K-Mer Index, Pigeon-Hole.
+
+* Generic Naive Approximate Matching allows up to n mismatches
+
+* Boyer-Moore Pre-processing with approximate matching
+
+* Pigeon Hole with Boyer-Moore or K-Mer Index, and approximate matching
+
+https://github.com/jordancheah/DNA-Sequencing-Boyer-Moore-Approximate-Matching
+
 ### Analyzing DNA sequences in Multi-Fasta Format using Python
 
 A Python program that analyzes a file containing DNA sequences in multi-FASTA format.
