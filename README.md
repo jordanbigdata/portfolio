@@ -48,6 +48,15 @@ https://github.com/jordancheah/DNA-Sequencing-FA-FASTQ-Python
 
 # My Data Engineering Portfolio
 
+### Stock Market Data ETL and Processing with Pig and HIVE
+This repository consist of two modules:
+
+* ETL and processing of NYSE_daily and NYSE_dividends data
+
+* ETL, Exploratory Data Analysis and Query of stock market indices since 1970. Data is obtained from Yahoo Finance
+
+https://github.com/jordancheah/StockMarket_DataUpload_Analysis_Pig_Hive
+
 ### Kafka Producer and Kafka Consumer in Java  
 
 This program illustrates how a Kafka Producer Group sends messages on my_topic, with key = my_key, to Kafka Consumer Group, which consumes messages sent on my_topic.
