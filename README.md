@@ -14,6 +14,10 @@ A gallery of mobile game analytics, trend analysis for stocks, dynamic measures 
 
 https://drive.google.com/folderview?id=0Bw5Xxuz7rs9ZZFY4ZVdNZFFQMWc&usp=sharing
 
+# Letter of Recommendation
+
+https://drive.google.com/open?id=0Bw5Xxuz7rs9ZdWpVbTFSUXkyVW8
+
 # My Data Science Portfolio
 
 ### Multiple Linear Regression
