@@ -1,3 +1,19 @@
+# My Google BigQuery Portfolio
+
+Screenshots of my recent project in
+* BigQuery ELT Job Automation with Python, Bash Shell, Postgres
+* Data extraction, cleaning and uploading to BigQuery, illustrated with OpenDining JSON API
+
+https://drive.google.com/open?id=0Bw5Xxuz7rs9ZTzIzWHZDZ1pDRDQ
+
+# My Data Visualization Portfolio
+
+### Tableau Gallery
+
+A gallery of mobile game analytics, trend analysis for stocks, dynamic measures and maps with Tableau:
+
+https://drive.google.com/folderview?id=0Bw5Xxuz7rs9ZZFY4ZVdNZFFQMWc&usp=sharing
+
 # My Data Science Portfolio
 
 ### Multiple Linear Regression
@@ -20,15 +36,6 @@ http://rpubs.com/JordanDotData/82705
 * Correlation Analysis, Simple Linear Regression and Multivariate Regression Analysis / Stepwise Algorithm  http://rpubs.com/JordanDotData/83309
 * t-test and p-value  http://rpubs.com/JordanDotData/82054
 * Distribution and Central Limit Theorem  http://rpubs.com/JordanDotData/81913
-
-# My Data Visualization Portfolio
-
-### Tableau Gallery
-
-A gallery of mobile game analytics, trend analysis for stocks, dynamic measures and maps with Tableau:
-
-https://drive.google.com/folderview?id=0Bw5Xxuz7rs9ZZFY4ZVdNZFFQMWc&usp=sharing
-
 
 # My Data Engineering Portfolio
 
