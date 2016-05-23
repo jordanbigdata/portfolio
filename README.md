@@ -10,7 +10,7 @@ https://drive.google.com/open?id=0Bw5Xxuz7rs9ZTzIzWHZDZ1pDRDQ
 
 ### Tableau Gallery
 
-A gallery of mobile game analytics, trend analysis for stocks, dynamic measures and maps with Tableau.  The backend is Hadoop/Hive and TreasureData.
+A gallery of marketing campaign analysis, customer lifetime value (LTV) for mobile game and Brand CVM (Customer Value Management).  The backend is Hadoop/Hive and TreasureData.
 
 https://drive.google.com/folderview?id=0Bw5Xxuz7rs9ZZFY4ZVdNZFFQMWc&usp=sharing
 
