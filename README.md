@@ -1,8 +1,8 @@
 # My Google BigQuery Portfolio
 
 Screenshots of my recent project in
-* BigQuery ELT Job Automation with Python, Bash Shell, Postgres
-* Data extraction, cleaning and uploading to BigQuery, illustrated with OpenDining JSON API
+* Architect, build and launch efficient and reliable data pipelines to move data from API to Google BigQuery (Python, Bash Shell, Postgres)
+* Design and develop analytics to enable other teams to consume and understand data faster.
 
 https://drive.google.com/open?id=0Bw5Xxuz7rs9ZTzIzWHZDZ1pDRDQ
 
