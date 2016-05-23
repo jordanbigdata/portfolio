@@ -1,8 +1,8 @@
 # My Google BigQuery Portfolio
 
 Screenshots of my recent project in
-* Architect, build and launch efficient and reliable data pipelines to move data from API to Google BigQuery (Python, Bash Shell, Postgres)
-* Design and develop analytics to enable other teams to consume and understand data faster (BigQuery, Aggregated Tables, Tableau)
+* Architect, build and launch __efficient and reliable data pipelines__ to move data from API to Google BigQuery (Python, Bash Shell, Postgres)
+* Design and develop __analytics__ to enable other teams to __consume and understand data faster__ (BigQuery, Aggregated Tables, Tableau)
 
 https://drive.google.com/open?id=0Bw5Xxuz7rs9ZTzIzWHZDZ1pDRDQ
 
