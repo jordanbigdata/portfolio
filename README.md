@@ -2,7 +2,7 @@
 
 Screenshots of my recent project in
 * Architect, build and launch efficient and reliable data pipelines to move data from API to Google BigQuery (Python, Bash Shell, Postgres)
-* Design and develop analytics to enable other teams to consume and understand data faster.
+* Design and develop analytics to enable other teams to consume and understand data faster (BigQuery, Aggregated Tables, Tableau)
 
 https://drive.google.com/open?id=0Bw5Xxuz7rs9ZTzIzWHZDZ1pDRDQ
 
@@ -10,7 +10,7 @@ https://drive.google.com/open?id=0Bw5Xxuz7rs9ZTzIzWHZDZ1pDRDQ
 
 ### Tableau Gallery
 
-A gallery of mobile game analytics, trend analysis for stocks, dynamic measures and maps with Tableau:
+A gallery of mobile game analytics, trend analysis for stocks, dynamic measures and maps with Tableau.  The backend is Hadoop/Hive and TreasureData.
 
 https://drive.google.com/folderview?id=0Bw5Xxuz7rs9ZZFY4ZVdNZFFQMWc&usp=sharing
 
